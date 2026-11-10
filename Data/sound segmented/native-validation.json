@@ -1,0 +1,1928 @@
+{
+  "engine": "App libdrawmusic_fluid.so + libfluidsynth.so",
+  "androidSdk": 34,
+  "sampleRate": 22050,
+  "checkedFiles": 274,
+  "failedFiles": [],
+  "silentProbePresets": [],
+  "results": [
+    {
+      "file": "inst_b000_p004.sf2",
+      "bank": 0,
+      "program": 4,
+      "notes": 3,
+      "peak": 0.22543621063232422
+    },
+    {
+      "file": "inst_b000_p000.sf2",
+      "bank": 0,
+      "program": 0,
+      "notes": 3,
+      "peak": 0.3193994164466858
+    },
+    {
+      "file": "inst_b000_p001.sf2",
+      "bank": 0,
+      "program": 1,
+      "notes": 3,
+      "peak": 0.31752824783325195
+    },
+    {
+      "file": "inst_b000_p002.sf2",
+      "bank": 0,
+      "program": 2,
+      "notes": 3,
+      "peak": 0.2963215708732605
+    },
+    {
+      "file": "inst_b000_p003.sf2",
+      "bank": 0,
+      "program": 3,
+      "notes": 3,
+      "peak": 0.3337576389312744
+    },
+    {
+      "file": "inst_b000_p005.sf2",
+      "bank": 0,
+      "program": 5,
+      "notes": 3,
+      "peak": 0.21501193940639496
+    },
+    {
+      "file": "inst_b000_p006.sf2",
+      "bank": 0,
+      "program": 6,
+      "notes": 3,
+      "peak": 0.25099512934684753
+    },
+    {
+      "file": "inst_b000_p007.sf2",
+      "bank": 0,
+      "program": 7,
+      "notes": 3,
+      "peak": 0.5017672777175903
+    },
+    {
+      "file": "inst_b008_p004.sf2",
+      "bank": 8,
+      "program": 4,
+      "notes": 3,
+      "peak": 0.25713101029396057
+    },
+    {
+      "file": "inst_b008_p005.sf2",
+      "bank": 8,
+      "program": 5,
+      "notes": 3,
+      "peak": 0.27844786643981934
+    },
+    {
+      "file": "inst_b008_p006.sf2",
+      "bank": 8,
+      "program": 6,
+      "notes": 3,
+      "peak": 0.28739261627197266
+    },
+    {
+      "file": "inst_b011_p000.sf2",
+      "bank": 11,
+      "program": 0,
+      "notes": 3,
+      "peak": 0.3345966339111328
+    },
+    {
+      "file": "inst_b011_p001.sf2",
+      "bank": 11,
+      "program": 1,
+      "notes": 3,
+      "peak": 0.33495059609413147
+    },
+    {
+      "file": "inst_b011_p004.sf2",
+      "bank": 11,
+      "program": 4,
+      "notes": 3,
+      "peak": 0.3247360587120056
+    },
+    {
+      "file": "inst_b011_p005.sf2",
+      "bank": 11,
+      "program": 5,
+      "notes": 3,
+      "peak": 0.36228179931640625
+    },
+    {
+      "file": "inst_b011_p006.sf2",
+      "bank": 11,
+      "program": 6,
+      "notes": 3,
+      "peak": 0.19260400533676147
+    },
+    {
+      "file": "inst_b012_p000.sf2",
+      "bank": 12,
+      "program": 0,
+      "notes": 3,
+      "peak": 0.33397752046585083
+    },
+    {
+      "file": "inst_b012_p004.sf2",
+      "bank": 12,
+      "program": 4,
+      "notes": 3,
+      "peak": 0.2146654725074768
+    },
+    {
+      "file": "inst_b012_p006.sf2",
+      "bank": 12,
+      "program": 6,
+      "notes": 3,
+      "peak": 0.22053402662277222
+    },
+    {
+      "file": "inst_b000_p012.sf2",
+      "bank": 0,
+      "program": 12,
+      "notes": 3,
+      "peak": 0.42463284730911255
+    },
+    {
+      "file": "inst_b000_p014.sf2",
+      "bank": 0,
+      "program": 14,
+      "notes": 3,
+      "peak": 0.4138522744178772
+    },
+    {
+      "file": "inst_b000_p010.sf2",
+      "bank": 0,
+      "program": 10,
+      "notes": 3,
+      "peak": 0.24082410335540771
+    },
+    {
+      "file": "inst_b000_p008.sf2",
+      "bank": 0,
+      "program": 8,
+      "notes": 3,
+      "peak": 0.4608776867389679
+    },
+    {
+      "file": "inst_b000_p009.sf2",
+      "bank": 0,
+      "program": 9,
+      "notes": 3,
+      "peak": 0.5108821988105774
+    },
+    {
+      "file": "inst_b000_p011.sf2",
+      "bank": 0,
+      "program": 11,
+      "notes": 3,
+      "peak": 0.41550469398498535
+    },
+    {
+      "file": "inst_b000_p013.sf2",
+      "bank": 0,
+      "program": 13,
+      "notes": 3,
+      "peak": 0.400301456451416
+    },
+    {
+      "file": "inst_b000_p015.sf2",
+      "bank": 0,
+      "program": 15,
+      "notes": 3,
+      "peak": 0.2842729687690735
+    },
+    {
+      "file": "inst_b008_p014.sf2",
+      "bank": 8,
+      "program": 14,
+      "notes": 3,
+      "peak": 0.3926505446434021
+    },
+    {
+      "file": "inst_b009_p014.sf2",
+      "bank": 9,
+      "program": 14,
+      "notes": 3,
+      "peak": 0.4591657817363739
+    },
+    {
+      "file": "inst_b011_p008.sf2",
+      "bank": 11,
+      "program": 8,
+      "notes": 3,
+      "peak": 0.19740860164165497
+    },
+    {
+      "file": "inst_b011_p011.sf2",
+      "bank": 11,
+      "program": 11,
+      "notes": 3,
+      "peak": 0.3521619141101837
+    },
+    {
+      "file": "inst_b011_p014.sf2",
+      "bank": 11,
+      "program": 14,
+      "notes": 3,
+      "peak": 0.41628071665763855
+    },
+    {
+      "file": "inst_b012_p010.sf2",
+      "bank": 12,
+      "program": 10,
+      "notes": 3,
+      "peak": 0.27522504329681396
+    },
+    {
+      "file": "inst_b000_p088.sf2",
+      "bank": 0,
+      "program": 88,
+      "notes": 3,
+      "peak": 0.34933698177337646
+    },
+    {
+      "file": "inst_b000_p089.sf2",
+      "bank": 0,
+      "program": 89,
+      "notes": 3,
+      "peak": 0.09052640199661255
+    },
+    {
+      "file": "inst_b000_p090.sf2",
+      "bank": 0,
+      "program": 90,
+      "notes": 3,
+      "peak": 0.31356531381607056
+    },
+    {
+      "file": "inst_b000_p091.sf2",
+      "bank": 0,
+      "program": 91,
+      "notes": 3,
+      "peak": 0.43585073947906494
+    },
+    {
+      "file": "inst_b000_p092.sf2",
+      "bank": 0,
+      "program": 92,
+      "notes": 3,
+      "peak": 0.17350660264492035
+    },
+    {
+      "file": "inst_b000_p093.sf2",
+      "bank": 0,
+      "program": 93,
+      "notes": 3,
+      "peak": 0.23453836143016815
+    },
+    {
+      "file": "inst_b000_p094.sf2",
+      "bank": 0,
+      "program": 94,
+      "notes": 3,
+      "peak": 0.21133625507354736
+    },
+    {
+      "file": "inst_b000_p095.sf2",
+      "bank": 0,
+      "program": 95,
+      "notes": 3,
+      "peak": 0.1586945503950119
+    },
+    {
+      "file": "inst_b011_p088.sf2",
+      "bank": 11,
+      "program": 88,
+      "notes": 3,
+      "peak": 0.13875707983970642
+    },
+    {
+      "file": "inst_b011_p089.sf2",
+      "bank": 11,
+      "program": 89,
+      "notes": 3,
+      "peak": 0.038665056228637695
+    },
+    {
+      "file": "inst_b012_p088.sf2",
+      "bank": 12,
+      "program": 88,
+      "notes": 3,
+      "peak": 0.2021082043647766
+    },
+    {
+      "file": "inst_b012_p089.sf2",
+      "bank": 12,
+      "program": 89,
+      "notes": 3,
+      "peak": 0.03727489337325096
+    },
+    {
+      "file": "inst_b013_p088.sf2",
+      "bank": 13,
+      "program": 88,
+      "notes": 3,
+      "peak": 0.17907941341400146
+    },
+    {
+      "file": "inst_b000_p024.sf2",
+      "bank": 0,
+      "program": 24,
+      "notes": 3,
+      "peak": 0.4019581377506256
+    },
+    {
+      "file": "inst_b000_p025.sf2",
+      "bank": 0,
+      "program": 25,
+      "notes": 3,
+      "peak": 0.3027147054672241
+    },
+    {
+      "file": "inst_b000_p026.sf2",
+      "bank": 0,
+      "program": 26,
+      "notes": 3,
+      "peak": 0.43750351667404175
+    },
+    {
+      "file": "inst_b000_p027.sf2",
+      "bank": 0,
+      "program": 27,
+      "notes": 3,
+      "peak": 0.4973730742931366
+    },
+    {
+      "file": "inst_b000_p028.sf2",
+      "bank": 0,
+      "program": 28,
+      "notes": 3,
+      "peak": 0.5888233184814453
+    },
+    {
+      "file": "inst_b000_p029.sf2",
+      "bank": 0,
+      "program": 29,
+      "notes": 3,
+      "peak": 0.3872116208076477
+    },
+    {
+      "file": "inst_b000_p030.sf2",
+      "bank": 0,
+      "program": 30,
+      "notes": 3,
+      "peak": 0.353507936000824
+    },
+    {
+      "file": "inst_b000_p031.sf2",
+      "bank": 0,
+      "program": 31,
+      "notes": 3,
+      "peak": 0.3287162780761719
+    },
+    {
+      "file": "inst_b008_p024.sf2",
+      "bank": 8,
+      "program": 24,
+      "notes": 3,
+      "peak": 0.331296443939209
+    },
+    {
+      "file": "inst_b008_p025.sf2",
+      "bank": 8,
+      "program": 25,
+      "notes": 3,
+      "peak": 0.37755271792411804
+    },
+    {
+      "file": "inst_b008_p026.sf2",
+      "bank": 8,
+      "program": 26,
+      "notes": 3,
+      "peak": 0.3069365322589874
+    },
+    {
+      "file": "inst_b008_p027.sf2",
+      "bank": 8,
+      "program": 27,
+      "notes": 3,
+      "peak": 0.40724092721939087
+    },
+    {
+      "file": "inst_b008_p028.sf2",
+      "bank": 8,
+      "program": 28,
+      "notes": 3,
+      "peak": 0.31702616810798645
+    },
+    {
+      "file": "inst_b008_p030.sf2",
+      "bank": 8,
+      "program": 30,
+      "notes": 3,
+      "peak": 0.35607361793518066
+    },
+    {
+      "file": "inst_b008_p031.sf2",
+      "bank": 8,
+      "program": 31,
+      "notes": 3,
+      "peak": 0.028198372572660446
+    },
+    {
+      "file": "inst_b011_p029.sf2",
+      "bank": 11,
+      "program": 29,
+      "notes": 3,
+      "peak": 0.2276892364025116
+    },
+    {
+      "file": "inst_b012_p027.sf2",
+      "bank": 12,
+      "program": 27,
+      "notes": 3,
+      "peak": 0.3564363121986389
+    },
+    {
+      "file": "inst_b016_p025.sf2",
+      "bank": 16,
+      "program": 25,
+      "notes": 3,
+      "peak": 0.3265678286552429
+    },
+    {
+      "file": "inst_b000_p073.sf2",
+      "bank": 0,
+      "program": 73,
+      "notes": 3,
+      "peak": 0.43877291679382324
+    },
+    {
+      "file": "inst_b000_p072.sf2",
+      "bank": 0,
+      "program": 72,
+      "notes": 3,
+      "peak": 0.3439525067806244
+    },
+    {
+      "file": "inst_b000_p074.sf2",
+      "bank": 0,
+      "program": 74,
+      "notes": 3,
+      "peak": 0.2562422454357147
+    },
+    {
+      "file": "inst_b000_p075.sf2",
+      "bank": 0,
+      "program": 75,
+      "notes": 3,
+      "peak": 0.32304561138153076
+    },
+    {
+      "file": "inst_b000_p076.sf2",
+      "bank": 0,
+      "program": 76,
+      "notes": 3,
+      "peak": 0.22951428592205048
+    },
+    {
+      "file": "inst_b000_p077.sf2",
+      "bank": 0,
+      "program": 77,
+      "notes": 3,
+      "peak": 0.4661479592323303
+    },
+    {
+      "file": "inst_b000_p078.sf2",
+      "bank": 0,
+      "program": 78,
+      "notes": 3,
+      "peak": 0.48258286714553833
+    },
+    {
+      "file": "inst_b000_p079.sf2",
+      "bank": 0,
+      "program": 79,
+      "notes": 3,
+      "peak": 0.4089762568473816
+    },
+    {
+      "file": "inst_b011_p078.sf2",
+      "bank": 11,
+      "program": 78,
+      "notes": 3,
+      "peak": 0.28317132592201233
+    },
+    {
+      "file": "inst_b024_p075.sf2",
+      "bank": 24,
+      "program": 75,
+      "notes": 3,
+      "peak": 0.34197646379470825
+    },
+    {
+      "file": "inst_b025_p075.sf2",
+      "bank": 25,
+      "program": 75,
+      "notes": 3,
+      "peak": 0.34179532527923584
+    },
+    {
+      "file": "inst_b026_p075.sf2",
+      "bank": 26,
+      "program": 75,
+      "notes": 3,
+      "peak": 0.34197646379470825
+    },
+    {
+      "file": "inst_b000_p048.sf2",
+      "bank": 0,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.2981567978858948
+    },
+    {
+      "file": "inst_b000_p049.sf2",
+      "bank": 0,
+      "program": 49,
+      "notes": 3,
+      "peak": 0.20855900645256042
+    },
+    {
+      "file": "inst_b000_p050.sf2",
+      "bank": 0,
+      "program": 50,
+      "notes": 3,
+      "peak": 0.1513187289237976
+    },
+    {
+      "file": "inst_b000_p051.sf2",
+      "bank": 0,
+      "program": 51,
+      "notes": 3,
+      "peak": 0.06761530786752701
+    },
+    {
+      "file": "inst_b000_p052.sf2",
+      "bank": 0,
+      "program": 52,
+      "notes": 3,
+      "peak": 0.2862624228000641
+    },
+    {
+      "file": "inst_b000_p053.sf2",
+      "bank": 0,
+      "program": 53,
+      "notes": 3,
+      "peak": 0.3973589539527893
+    },
+    {
+      "file": "inst_b000_p054.sf2",
+      "bank": 0,
+      "program": 54,
+      "notes": 3,
+      "peak": 0.2761554718017578
+    },
+    {
+      "file": "inst_b000_p055.sf2",
+      "bank": 0,
+      "program": 55,
+      "notes": 3,
+      "peak": 0.4629369378089905
+    },
+    {
+      "file": "inst_b001_p048.sf2",
+      "bank": 1,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.36288198828697205
+    },
+    {
+      "file": "inst_b001_p049.sf2",
+      "bank": 1,
+      "program": 49,
+      "notes": 3,
+      "peak": 0.26956331729888916
+    },
+    {
+      "file": "inst_b001_p052.sf2",
+      "bank": 1,
+      "program": 52,
+      "notes": 3,
+      "peak": 0.2876254916191101
+    },
+    {
+      "file": "inst_b008_p048.sf2",
+      "bank": 8,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.32488298416137695
+    },
+    {
+      "file": "inst_b008_p050.sf2",
+      "bank": 8,
+      "program": 50,
+      "notes": 3,
+      "peak": 0.20692655444145203
+    },
+    {
+      "file": "inst_b011_p049.sf2",
+      "bank": 11,
+      "program": 49,
+      "notes": 3,
+      "peak": 0.29702359437942505
+    },
+    {
+      "file": "inst_b011_p050.sf2",
+      "bank": 11,
+      "program": 50,
+      "notes": 3,
+      "peak": 0.11195224523544312
+    },
+    {
+      "file": "inst_b011_p051.sf2",
+      "bank": 11,
+      "program": 51,
+      "notes": 3,
+      "peak": 0.0199306458234787
+    },
+    {
+      "file": "inst_b012_p048.sf2",
+      "bank": 12,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.45001572370529175
+    },
+    {
+      "file": "inst_b012_p049.sf2",
+      "bank": 12,
+      "program": 49,
+      "notes": 3,
+      "peak": 0.3091478943824768
+    },
+    {
+      "file": "inst_b013_p048.sf2",
+      "bank": 13,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.4390166401863098
+    },
+    {
+      "file": "inst_b000_p038.sf2",
+      "bank": 0,
+      "program": 38,
+      "notes": 3,
+      "peak": 0.38775163888931274
+    },
+    {
+      "file": "inst_b000_p039.sf2",
+      "bank": 0,
+      "program": 39,
+      "notes": 3,
+      "peak": 0.5545298457145691
+    },
+    {
+      "file": "inst_b000_p032.sf2",
+      "bank": 0,
+      "program": 32,
+      "notes": 3,
+      "peak": 0.4897615909576416
+    },
+    {
+      "file": "inst_b000_p033.sf2",
+      "bank": 0,
+      "program": 33,
+      "notes": 3,
+      "peak": 0.4212719798088074
+    },
+    {
+      "file": "inst_b000_p034.sf2",
+      "bank": 0,
+      "program": 34,
+      "notes": 3,
+      "peak": 0.4233008325099945
+    },
+    {
+      "file": "inst_b000_p035.sf2",
+      "bank": 0,
+      "program": 35,
+      "notes": 3,
+      "peak": 0.45835253596305847
+    },
+    {
+      "file": "inst_b000_p036.sf2",
+      "bank": 0,
+      "program": 36,
+      "notes": 3,
+      "peak": 0.4989233911037445
+    },
+    {
+      "file": "inst_b000_p037.sf2",
+      "bank": 0,
+      "program": 37,
+      "notes": 3,
+      "peak": 0.42271146178245544
+    },
+    {
+      "file": "inst_b001_p038.sf2",
+      "bank": 1,
+      "program": 38,
+      "notes": 3,
+      "peak": 0.6368225812911987
+    },
+    {
+      "file": "inst_b008_p038.sf2",
+      "bank": 8,
+      "program": 38,
+      "notes": 3,
+      "peak": 0.647687554359436
+    },
+    {
+      "file": "inst_b008_p039.sf2",
+      "bank": 8,
+      "program": 39,
+      "notes": 3,
+      "peak": 0.5470705032348633
+    },
+    {
+      "file": "inst_b011_p038.sf2",
+      "bank": 11,
+      "program": 38,
+      "notes": 3,
+      "peak": 0.5105409026145935
+    },
+    {
+      "file": "inst_b011_p039.sf2",
+      "bank": 11,
+      "program": 39,
+      "notes": 3,
+      "peak": 0.37862297892570496
+    },
+    {
+      "file": "inst_b012_p038.sf2",
+      "bank": 12,
+      "program": 38,
+      "notes": 3,
+      "peak": 0.3910787105560303
+    },
+    {
+      "file": "inst_b000_p080.sf2",
+      "bank": 0,
+      "program": 80,
+      "notes": 3,
+      "peak": 0.2991545796394348
+    },
+    {
+      "file": "inst_b000_p081.sf2",
+      "bank": 0,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.3923794627189636
+    },
+    {
+      "file": "inst_b000_p082.sf2",
+      "bank": 0,
+      "program": 82,
+      "notes": 3,
+      "peak": 0.5156506299972534
+    },
+    {
+      "file": "inst_b000_p083.sf2",
+      "bank": 0,
+      "program": 83,
+      "notes": 3,
+      "peak": 0.40918272733688354
+    },
+    {
+      "file": "inst_b000_p084.sf2",
+      "bank": 0,
+      "program": 84,
+      "notes": 3,
+      "peak": 0.3746051490306854
+    },
+    {
+      "file": "inst_b000_p085.sf2",
+      "bank": 0,
+      "program": 85,
+      "notes": 3,
+      "peak": 0.42193281650543213
+    },
+    {
+      "file": "inst_b000_p086.sf2",
+      "bank": 0,
+      "program": 86,
+      "notes": 3,
+      "peak": 0.5268845558166504
+    },
+    {
+      "file": "inst_b000_p087.sf2",
+      "bank": 0,
+      "program": 87,
+      "notes": 3,
+      "peak": 0.4488248825073242
+    },
+    {
+      "file": "inst_b001_p080.sf2",
+      "bank": 1,
+      "program": 80,
+      "notes": 3,
+      "peak": 0.22510355710983276
+    },
+    {
+      "file": "inst_b001_p081.sf2",
+      "bank": 1,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.23461931943893433
+    },
+    {
+      "file": "inst_b008_p080.sf2",
+      "bank": 8,
+      "program": 80,
+      "notes": 3,
+      "peak": 0.2794833779335022
+    },
+    {
+      "file": "inst_b008_p081.sf2",
+      "bank": 8,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.3926953375339508
+    },
+    {
+      "file": "inst_b011_p081.sf2",
+      "bank": 11,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.348124623298645
+    },
+    {
+      "file": "inst_b012_p080.sf2",
+      "bank": 12,
+      "program": 80,
+      "notes": 3,
+      "peak": 0.23788708448410034
+    },
+    {
+      "file": "inst_b012_p081.sf2",
+      "bank": 12,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.2553252577781677
+    },
+    {
+      "file": "inst_b013_p080.sf2",
+      "bank": 13,
+      "program": 80,
+      "notes": 3,
+      "peak": 0.2579217255115509
+    },
+    {
+      "file": "inst_b013_p081.sf2",
+      "bank": 13,
+      "program": 81,
+      "notes": 3,
+      "peak": 0.3117606043815613
+    },
+    {
+      "file": "inst_b000_p065.sf2",
+      "bank": 0,
+      "program": 65,
+      "notes": 3,
+      "peak": 0.41730785369873047
+    },
+    {
+      "file": "inst_b000_p064.sf2",
+      "bank": 0,
+      "program": 64,
+      "notes": 3,
+      "peak": 0.33354803919792175
+    },
+    {
+      "file": "inst_b000_p066.sf2",
+      "bank": 0,
+      "program": 66,
+      "notes": 3,
+      "peak": 0.3683662414550781
+    },
+    {
+      "file": "inst_b000_p067.sf2",
+      "bank": 0,
+      "program": 67,
+      "notes": 3,
+      "peak": 0.3569253087043762
+    },
+    {
+      "file": "inst_b000_p068.sf2",
+      "bank": 0,
+      "program": 68,
+      "notes": 3,
+      "peak": 0.2495330572128296
+    },
+    {
+      "file": "inst_b000_p069.sf2",
+      "bank": 0,
+      "program": 69,
+      "notes": 3,
+      "peak": 0.2679828405380249
+    },
+    {
+      "file": "inst_b000_p070.sf2",
+      "bank": 0,
+      "program": 70,
+      "notes": 3,
+      "peak": 0.35818541049957275
+    },
+    {
+      "file": "inst_b000_p071.sf2",
+      "bank": 0,
+      "program": 71,
+      "notes": 3,
+      "peak": 0.3352449834346771
+    },
+    {
+      "file": "inst_b000_p016.sf2",
+      "bank": 0,
+      "program": 16,
+      "notes": 3,
+      "peak": 0.24903903901576996
+    },
+    {
+      "file": "inst_b000_p017.sf2",
+      "bank": 0,
+      "program": 17,
+      "notes": 3,
+      "peak": 0.442531555891037
+    },
+    {
+      "file": "inst_b000_p018.sf2",
+      "bank": 0,
+      "program": 18,
+      "notes": 3,
+      "peak": 0.37465184926986694
+    },
+    {
+      "file": "inst_b000_p019.sf2",
+      "bank": 0,
+      "program": 19,
+      "notes": 3,
+      "peak": 0.2492724508047104
+    },
+    {
+      "file": "inst_b000_p020.sf2",
+      "bank": 0,
+      "program": 20,
+      "notes": 3,
+      "peak": 0.2696714401245117
+    },
+    {
+      "file": "inst_b000_p021.sf2",
+      "bank": 0,
+      "program": 21,
+      "notes": 3,
+      "peak": 0.22164419293403625
+    },
+    {
+      "file": "inst_b000_p022.sf2",
+      "bank": 0,
+      "program": 22,
+      "notes": 3,
+      "peak": 0.2904210388660431
+    },
+    {
+      "file": "inst_b000_p023.sf2",
+      "bank": 0,
+      "program": 23,
+      "notes": 3,
+      "peak": 0.2614653706550598
+    },
+    {
+      "file": "inst_b008_p016.sf2",
+      "bank": 8,
+      "program": 16,
+      "notes": 3,
+      "peak": 0.36125096678733826
+    },
+    {
+      "file": "inst_b008_p017.sf2",
+      "bank": 8,
+      "program": 17,
+      "notes": 3,
+      "peak": 0.49409788846969604
+    },
+    {
+      "file": "inst_b008_p019.sf2",
+      "bank": 8,
+      "program": 19,
+      "notes": 3,
+      "peak": 0.22099098563194275
+    },
+    {
+      "file": "inst_b008_p021.sf2",
+      "bank": 8,
+      "program": 21,
+      "notes": 3,
+      "peak": 0.2391481101512909
+    },
+    {
+      "file": "inst_b011_p016.sf2",
+      "bank": 11,
+      "program": 16,
+      "notes": 3,
+      "peak": 0.20010937750339508
+    },
+    {
+      "file": "inst_b011_p017.sf2",
+      "bank": 11,
+      "program": 17,
+      "notes": 3,
+      "peak": 0.2517353892326355
+    },
+    {
+      "file": "inst_b011_p018.sf2",
+      "bank": 11,
+      "program": 18,
+      "notes": 3,
+      "peak": 0.3010425269603729
+    },
+    {
+      "file": "inst_b011_p019.sf2",
+      "bank": 11,
+      "program": 19,
+      "notes": 3,
+      "peak": 0.20029693841934204
+    },
+    {
+      "file": "inst_b011_p020.sf2",
+      "bank": 11,
+      "program": 20,
+      "notes": 3,
+      "peak": 0.22690024971961975
+    },
+    {
+      "file": "inst_b012_p016.sf2",
+      "bank": 12,
+      "program": 16,
+      "notes": 3,
+      "peak": 0.29027459025382996
+    },
+    {
+      "file": "inst_b012_p017.sf2",
+      "bank": 12,
+      "program": 17,
+      "notes": 3,
+      "peak": 0.397020548582077
+    },
+    {
+      "file": "inst_b012_p019.sf2",
+      "bank": 12,
+      "program": 19,
+      "notes": 3,
+      "peak": 0.17757202684879303
+    },
+    {
+      "file": "inst_b000_p040.sf2",
+      "bank": 0,
+      "program": 40,
+      "notes": 3,
+      "peak": 0.28894317150115967
+    },
+    {
+      "file": "inst_b000_p041.sf2",
+      "bank": 0,
+      "program": 41,
+      "notes": 3,
+      "peak": 0.37257659435272217
+    },
+    {
+      "file": "inst_b000_p042.sf2",
+      "bank": 0,
+      "program": 42,
+      "notes": 3,
+      "peak": 0.24513176083564758
+    },
+    {
+      "file": "inst_b000_p043.sf2",
+      "bank": 0,
+      "program": 43,
+      "notes": 3,
+      "peak": 0.2815278172492981
+    },
+    {
+      "file": "inst_b000_p044.sf2",
+      "bank": 0,
+      "program": 44,
+      "notes": 3,
+      "peak": 0.2470698356628418
+    },
+    {
+      "file": "inst_b000_p045.sf2",
+      "bank": 0,
+      "program": 45,
+      "notes": 3,
+      "peak": 0.40084749460220337
+    },
+    {
+      "file": "inst_b000_p046.sf2",
+      "bank": 0,
+      "program": 46,
+      "notes": 3,
+      "peak": 0.48691946268081665
+    },
+    {
+      "file": "inst_b000_p047.sf2",
+      "bank": 0,
+      "program": 47,
+      "notes": 3,
+      "peak": 0.5887157320976257
+    },
+    {
+      "file": "inst_b001_p044.sf2",
+      "bank": 1,
+      "program": 44,
+      "notes": 3,
+      "peak": 0.31126832962036133
+    },
+    {
+      "file": "inst_b000_p056.sf2",
+      "bank": 0,
+      "program": 56,
+      "notes": 3,
+      "peak": 0.41161954402923584
+    },
+    {
+      "file": "inst_b000_p057.sf2",
+      "bank": 0,
+      "program": 57,
+      "notes": 3,
+      "peak": 0.3790530264377594
+    },
+    {
+      "file": "inst_b000_p058.sf2",
+      "bank": 0,
+      "program": 58,
+      "notes": 3,
+      "peak": 0.4491092562675476
+    },
+    {
+      "file": "inst_b000_p059.sf2",
+      "bank": 0,
+      "program": 59,
+      "notes": 3,
+      "peak": 0.23891207575798035
+    },
+    {
+      "file": "inst_b000_p060.sf2",
+      "bank": 0,
+      "program": 60,
+      "notes": 3,
+      "peak": 0.38845157623291016
+    },
+    {
+      "file": "inst_b000_p061.sf2",
+      "bank": 0,
+      "program": 61,
+      "notes": 3,
+      "peak": 0.5057047605514526
+    },
+    {
+      "file": "inst_b000_p062.sf2",
+      "bank": 0,
+      "program": 62,
+      "notes": 3,
+      "peak": 0.37709277868270874
+    },
+    {
+      "file": "inst_b000_p063.sf2",
+      "bank": 0,
+      "program": 63,
+      "notes": 3,
+      "peak": 0.34432825446128845
+    },
+    {
+      "file": "inst_b001_p056.sf2",
+      "bank": 1,
+      "program": 56,
+      "notes": 3,
+      "peak": 0.4052702486515045
+    },
+    {
+      "file": "inst_b001_p057.sf2",
+      "bank": 1,
+      "program": 57,
+      "notes": 3,
+      "peak": 0.35292738676071167
+    },
+    {
+      "file": "inst_b001_p060.sf2",
+      "bank": 1,
+      "program": 60,
+      "notes": 3,
+      "peak": 0.485787570476532
+    },
+    {
+      "file": "inst_b001_p061.sf2",
+      "bank": 1,
+      "program": 61,
+      "notes": 3,
+      "peak": 0.5304518342018127
+    },
+    {
+      "file": "inst_b008_p061.sf2",
+      "bank": 8,
+      "program": 61,
+      "notes": 3,
+      "peak": 0.4121338725090027
+    },
+    {
+      "file": "inst_b008_p062.sf2",
+      "bank": 8,
+      "program": 62,
+      "notes": 3,
+      "peak": 0.2410215139389038
+    },
+    {
+      "file": "inst_b008_p063.sf2",
+      "bank": 8,
+      "program": 63,
+      "notes": 3,
+      "peak": 0.23208358883857727
+    },
+    {
+      "file": "inst_b011_p061.sf2",
+      "bank": 11,
+      "program": 61,
+      "notes": 3,
+      "peak": 0.39868277311325073
+    },
+    {
+      "file": "inst_b000_p096.sf2",
+      "bank": 0,
+      "program": 96,
+      "notes": 3,
+      "peak": 0.49473103880882263
+    },
+    {
+      "file": "inst_b000_p097.sf2",
+      "bank": 0,
+      "program": 97,
+      "notes": 3,
+      "peak": 0.1468161940574646
+    },
+    {
+      "file": "inst_b000_p098.sf2",
+      "bank": 0,
+      "program": 98,
+      "notes": 3,
+      "peak": 0.48941344022750854
+    },
+    {
+      "file": "inst_b000_p099.sf2",
+      "bank": 0,
+      "program": 99,
+      "notes": 3,
+      "peak": 0.3682132959365845
+    },
+    {
+      "file": "inst_b000_p100.sf2",
+      "bank": 0,
+      "program": 100,
+      "notes": 3,
+      "peak": 0.4574316143989563
+    },
+    {
+      "file": "inst_b000_p101.sf2",
+      "bank": 0,
+      "program": 101,
+      "notes": 3,
+      "peak": 0.07171201705932617
+    },
+    {
+      "file": "inst_b000_p102.sf2",
+      "bank": 0,
+      "program": 102,
+      "notes": 3,
+      "peak": 0.4635952115058899
+    },
+    {
+      "file": "inst_b000_p103.sf2",
+      "bank": 0,
+      "program": 103,
+      "notes": 3,
+      "peak": 0.4888384938240051
+    },
+    {
+      "file": "inst_b001_p098.sf2",
+      "bank": 1,
+      "program": 98,
+      "notes": 3,
+      "peak": 0.46711981296539307
+    },
+    {
+      "file": "inst_b002_p102.sf2",
+      "bank": 2,
+      "program": 102,
+      "notes": 3,
+      "peak": 0.3897252082824707
+    },
+    {
+      "file": "inst_b011_p096.sf2",
+      "bank": 11,
+      "program": 96,
+      "notes": 3,
+      "peak": 0.3304963707923889
+    },
+    {
+      "file": "inst_b011_p098.sf2",
+      "bank": 11,
+      "program": 98,
+      "notes": 3,
+      "peak": 0.33981215953826904
+    },
+    {
+      "file": "inst_b011_p100.sf2",
+      "bank": 11,
+      "program": 100,
+      "notes": 3,
+      "peak": 0.21722617745399475
+    },
+    {
+      "file": "inst_b000_p104.sf2",
+      "bank": 0,
+      "program": 104,
+      "notes": 3,
+      "peak": 0.48827147483825684
+    },
+    {
+      "file": "inst_b000_p105.sf2",
+      "bank": 0,
+      "program": 105,
+      "notes": 3,
+      "peak": 0.6258958578109741
+    },
+    {
+      "file": "inst_b000_p106.sf2",
+      "bank": 0,
+      "program": 106,
+      "notes": 3,
+      "peak": 0.5342126488685608
+    },
+    {
+      "file": "inst_b000_p107.sf2",
+      "bank": 0,
+      "program": 107,
+      "notes": 3,
+      "peak": 0.620229184627533
+    },
+    {
+      "file": "inst_b000_p108.sf2",
+      "bank": 0,
+      "program": 108,
+      "notes": 3,
+      "peak": 0.5158479809761047
+    },
+    {
+      "file": "inst_b000_p109.sf2",
+      "bank": 0,
+      "program": 109,
+      "notes": 3,
+      "peak": 0.397316038608551
+    },
+    {
+      "file": "inst_b000_p110.sf2",
+      "bank": 0,
+      "program": 110,
+      "notes": 3,
+      "peak": 0.29154133796691895
+    },
+    {
+      "file": "inst_b000_p111.sf2",
+      "bank": 0,
+      "program": 111,
+      "notes": 3,
+      "peak": 0.44159996509552
+    },
+    {
+      "file": "inst_b008_p107.sf2",
+      "bank": 8,
+      "program": 107,
+      "notes": 3,
+      "peak": 0.437704861164093
+    },
+    {
+      "file": "inst_b000_p112.sf2",
+      "bank": 0,
+      "program": 112,
+      "notes": 3,
+      "peak": 0.5934549570083618
+    },
+    {
+      "file": "inst_b000_p113.sf2",
+      "bank": 0,
+      "program": 113,
+      "notes": 3,
+      "peak": 0.560433030128479
+    },
+    {
+      "file": "inst_b000_p114.sf2",
+      "bank": 0,
+      "program": 114,
+      "notes": 3,
+      "peak": 0.49411654472351074
+    },
+    {
+      "file": "inst_b000_p115.sf2",
+      "bank": 0,
+      "program": 115,
+      "notes": 3,
+      "peak": 0.5795437097549438
+    },
+    {
+      "file": "inst_b000_p116.sf2",
+      "bank": 0,
+      "program": 116,
+      "notes": 3,
+      "peak": 0.6012084484100342
+    },
+    {
+      "file": "inst_b000_p117.sf2",
+      "bank": 0,
+      "program": 117,
+      "notes": 3,
+      "peak": 0.3492586612701416
+    },
+    {
+      "file": "inst_b000_p118.sf2",
+      "bank": 0,
+      "program": 118,
+      "notes": 3,
+      "peak": 0.42647886276245117
+    },
+    {
+      "file": "inst_b000_p119.sf2",
+      "bank": 0,
+      "program": 119,
+      "notes": 3,
+      "peak": 0.05707366019487381
+    },
+    {
+      "file": "inst_b008_p115.sf2",
+      "bank": 8,
+      "program": 115,
+      "notes": 3,
+      "peak": 0.29679813981056213
+    },
+    {
+      "file": "inst_b008_p116.sf2",
+      "bank": 8,
+      "program": 116,
+      "notes": 3,
+      "peak": 0.5236549377441406
+    },
+    {
+      "file": "inst_b008_p117.sf2",
+      "bank": 8,
+      "program": 117,
+      "notes": 3,
+      "peak": 0.4840381145477295
+    },
+    {
+      "file": "inst_b008_p118.sf2",
+      "bank": 8,
+      "program": 118,
+      "notes": 3,
+      "peak": 0.5975351333618164
+    },
+    {
+      "file": "inst_b011_p119.sf2",
+      "bank": 11,
+      "program": 119,
+      "notes": 3,
+      "peak": 0.3821071684360504
+    },
+    {
+      "file": "inst_b012_p119.sf2",
+      "bank": 12,
+      "program": 119,
+      "notes": 3,
+      "peak": 0.23639263212680817
+    },
+    {
+      "file": "inst_b000_p120.sf2",
+      "bank": 0,
+      "program": 120,
+      "notes": 3,
+      "peak": 0.19538207352161407
+    },
+    {
+      "file": "inst_b000_p121.sf2",
+      "bank": 0,
+      "program": 121,
+      "notes": 3,
+      "peak": 0.14925126731395721
+    },
+    {
+      "file": "inst_b000_p122.sf2",
+      "bank": 0,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.05637964606285095
+    },
+    {
+      "file": "inst_b000_p123.sf2",
+      "bank": 0,
+      "program": 123,
+      "notes": 3,
+      "peak": 0.28138577938079834
+    },
+    {
+      "file": "inst_b000_p124.sf2",
+      "bank": 0,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.29724663496017456
+    },
+    {
+      "file": "inst_b000_p125.sf2",
+      "bank": 0,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.016110241413116455
+    },
+    {
+      "file": "inst_b000_p126.sf2",
+      "bank": 0,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.0996861532330513
+    },
+    {
+      "file": "inst_b000_p127.sf2",
+      "bank": 0,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.4866296648979187
+    },
+    {
+      "file": "inst_b001_p120.sf2",
+      "bank": 1,
+      "program": 120,
+      "notes": 3,
+      "peak": 0.22757938504219055
+    },
+    {
+      "file": "inst_b001_p121.sf2",
+      "bank": 1,
+      "program": 121,
+      "notes": 3,
+      "peak": 0.33911824226379395
+    },
+    {
+      "file": "inst_b001_p122.sf2",
+      "bank": 1,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.009702442213892937
+    },
+    {
+      "file": "inst_b001_p123.sf2",
+      "bank": 1,
+      "program": 123,
+      "notes": 3,
+      "peak": 0.4409547448158264
+    },
+    {
+      "file": "inst_b001_p124.sf2",
+      "bank": 1,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.26200032234191895
+    },
+    {
+      "file": "inst_b001_p125.sf2",
+      "bank": 1,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.24344474077224731
+    },
+    {
+      "file": "inst_b001_p126.sf2",
+      "bank": 1,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.3550221621990204
+    },
+    {
+      "file": "inst_b001_p127.sf2",
+      "bank": 1,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.355403870344162
+    },
+    {
+      "file": "inst_b002_p120.sf2",
+      "bank": 2,
+      "program": 120,
+      "notes": 3,
+      "peak": 0.3134470582008362
+    },
+    {
+      "file": "inst_b002_p122.sf2",
+      "bank": 2,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.3279961049556732
+    },
+    {
+      "file": "inst_b002_p123.sf2",
+      "bank": 2,
+      "program": 123,
+      "notes": 3,
+      "peak": 0.009612888097763062
+    },
+    {
+      "file": "inst_b002_p124.sf2",
+      "bank": 2,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.2338651418685913
+    },
+    {
+      "file": "inst_b002_p125.sf2",
+      "bank": 2,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.4097817540168762
+    },
+    {
+      "file": "inst_b002_p126.sf2",
+      "bank": 2,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.3610999882221222
+    },
+    {
+      "file": "inst_b002_p127.sf2",
+      "bank": 2,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.31634074449539185
+    },
+    {
+      "file": "inst_b003_p122.sf2",
+      "bank": 3,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.05602877214550972
+    },
+    {
+      "file": "inst_b003_p123.sf2",
+      "bank": 3,
+      "program": 123,
+      "notes": 3,
+      "peak": 0.22848248481750488
+    },
+    {
+      "file": "inst_b003_p124.sf2",
+      "bank": 3,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.39206230640411377
+    },
+    {
+      "file": "inst_b003_p125.sf2",
+      "bank": 3,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.18185842037200928
+    },
+    {
+      "file": "inst_b003_p126.sf2",
+      "bank": 3,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.42332643270492554
+    },
+    {
+      "file": "inst_b003_p127.sf2",
+      "bank": 3,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.5030874013900757
+    },
+    {
+      "file": "inst_b004_p122.sf2",
+      "bank": 4,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.034935034811496735
+    },
+    {
+      "file": "inst_b004_p124.sf2",
+      "bank": 4,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.35944664478302
+    },
+    {
+      "file": "inst_b004_p125.sf2",
+      "bank": 4,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.5483042001724243
+    },
+    {
+      "file": "inst_b004_p126.sf2",
+      "bank": 4,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.4073910415172577
+    },
+    {
+      "file": "inst_b005_p122.sf2",
+      "bank": 5,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.39399880170822144
+    },
+    {
+      "file": "inst_b005_p124.sf2",
+      "bank": 5,
+      "program": 124,
+      "notes": 3,
+      "peak": 0.44812095165252686
+    },
+    {
+      "file": "inst_b005_p125.sf2",
+      "bank": 5,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.07614780217409134
+    },
+    {
+      "file": "inst_b005_p126.sf2",
+      "bank": 5,
+      "program": 126,
+      "notes": 3,
+      "peak": 0.3467663824558258
+    },
+    {
+      "file": "inst_b006_p125.sf2",
+      "bank": 6,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.0066088177263736725
+    },
+    {
+      "file": "inst_b007_p125.sf2",
+      "bank": 7,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.11675143241882324
+    },
+    {
+      "file": "inst_b008_p125.sf2",
+      "bank": 8,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.08661986142396927
+    },
+    {
+      "file": "inst_b009_p125.sf2",
+      "bank": 9,
+      "program": 125,
+      "notes": 3,
+      "peak": 0.17102500796318054
+    },
+    {
+      "file": "inst_b011_p121.sf2",
+      "bank": 11,
+      "program": 121,
+      "notes": 3,
+      "peak": 0.23359930515289307
+    },
+    {
+      "file": "inst_b011_p122.sf2",
+      "bank": 11,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.015020247548818588
+    },
+    {
+      "file": "inst_b011_p127.sf2",
+      "bank": 11,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.07888449728488922
+    },
+    {
+      "file": "inst_b012_p122.sf2",
+      "bank": 12,
+      "program": 122,
+      "notes": 3,
+      "peak": 0.15532851219177246
+    },
+    {
+      "file": "inst_b012_p127.sf2",
+      "bank": 12,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.18650053441524506
+    },
+    {
+      "file": "inst_b128_p000.sf2",
+      "bank": 128,
+      "program": 0,
+      "notes": 3,
+      "peak": 0.5503246784210205
+    },
+    {
+      "file": "inst_b128_p001.sf2",
+      "bank": 128,
+      "program": 1,
+      "notes": 3,
+      "peak": 0.635442852973938
+    },
+    {
+      "file": "inst_b128_p002.sf2",
+      "bank": 128,
+      "program": 2,
+      "notes": 3,
+      "peak": 0.5109341144561768
+    },
+    {
+      "file": "inst_b128_p008.sf2",
+      "bank": 128,
+      "program": 8,
+      "notes": 3,
+      "peak": 0.5109341144561768
+    },
+    {
+      "file": "inst_b128_p016.sf2",
+      "bank": 128,
+      "program": 16,
+      "notes": 3,
+      "peak": 0.7735403180122375
+    },
+    {
+      "file": "inst_b128_p024.sf2",
+      "bank": 128,
+      "program": 24,
+      "notes": 3,
+      "peak": 0.6098328828811646
+    },
+    {
+      "file": "inst_b128_p025.sf2",
+      "bank": 128,
+      "program": 25,
+      "notes": 3,
+      "peak": 0.809288501739502
+    },
+    {
+      "file": "inst_b128_p026.sf2",
+      "bank": 128,
+      "program": 26,
+      "notes": 3,
+      "peak": 0.7039541006088257
+    },
+    {
+      "file": "inst_b128_p032.sf2",
+      "bank": 128,
+      "program": 32,
+      "notes": 3,
+      "peak": 0.5660387277603149
+    },
+    {
+      "file": "inst_b128_p040.sf2",
+      "bank": 128,
+      "program": 40,
+      "notes": 3,
+      "peak": 0.5109341144561768
+    },
+    {
+      "file": "inst_b128_p048.sf2",
+      "bank": 128,
+      "program": 48,
+      "notes": 3,
+      "peak": 0.6024340391159058
+    },
+    {
+      "file": "inst_b128_p056.sf2",
+      "bank": 128,
+      "program": 56,
+      "notes": 3,
+      "peak": 0.20945516228675842
+    },
+    {
+      "file": "inst_b128_p127.sf2",
+      "bank": 128,
+      "program": 127,
+      "notes": 3,
+      "peak": 0.5796390175819397
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "app_config": {
+      "ad_flow_script": "CTR_SPAM",
+      "ad_key": [
+        {
+          "name": "app_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_main_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_splash_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_splash_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_home_id_1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_id_1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_draw_id",
+          "isEnabled": "false"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}

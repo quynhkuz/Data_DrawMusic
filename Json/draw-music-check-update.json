@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-New version\n-Bug fixeds",
+        "force_update": "true",
+        "package_name": "com.banix.drawsound.drawmusic",
+        "version_code": 13,
+        "version_name": "2.2",
+        "new_package_name": "com.banix.drawsound.drawmusic"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}

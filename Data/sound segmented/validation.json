@@ -1,0 +1,27 @@
+{
+  "checkedFiles": 274,
+  "passedFiles": 274,
+  "sourceSha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+  "checks": [
+    "RIFF sizes",
+    "one correct bank/program per SF2",
+    "preset/instrument/global/local zones",
+    "generators and modulators retained",
+    "PCM16 bit-for-bit",
+    "sample loops/tuning",
+    "linked/stereo sample dependencies",
+    "embedded original license"
+  ],
+  "nativeSynthValidation": {
+    "status": "passed",
+    "engine": "App libdrawmusic_fluid.so + libfluidsynth.so",
+    "androidSdk": 34,
+    "sampleRate": 22050,
+    "loadedAndRenderedFiles": 274,
+    "failedFiles": 0,
+    "silentProbeFiles": 0,
+    "testedNotesPerPreset": 3,
+    "allProbeSamplesFinite": true,
+    "scope": "Melodic MIDI 36/60/84, drums 35/38/42 at velocity 100; not exhaustive all pitches/velocities."
+  }
+}
